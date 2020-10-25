@@ -8,7 +8,7 @@ public class HelloWorldController {
 
 	@GetMapping("/hello")
 	public String sayHello() {
-		return "Hello from Github Deploy";
+		return "Hello from new one Deploy";
 	}
 	
 }
